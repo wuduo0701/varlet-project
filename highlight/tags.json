@@ -1,4 +1,7 @@
 {
+  "b-antdv-button": {
+    "attributes": []
+  },
   "b-button": {
     "attributes": [
       "color"

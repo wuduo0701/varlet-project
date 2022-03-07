@@ -7,6 +7,12 @@
     "html": {
       "tags": [
         {
+          "name": "b-antdv-button",
+          "attributes": [],
+          "events": [],
+          "slots": []
+        },
+        {
           "name": "b-button",
           "attributes": [
             {
