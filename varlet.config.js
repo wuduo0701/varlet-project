@@ -92,6 +92,13 @@ module.exports = {
         doc: 'button',
         type: 2,
       },
+      {
+        text: {
+          'zh-CN': 'antdvButton 按钮',
+        },
+        doc: 'antdv-button',
+        type: 2,
+      },
     ],
   },
   mobile: {
